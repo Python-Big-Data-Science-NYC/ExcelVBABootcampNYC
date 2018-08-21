@@ -1,4 +1,4 @@
-<h1> Excel VBA Bootcamp NYC - Data Analytics </h1>
+<h1> Excel VBA Bootcamp Classes NYC - Data Analytics </h1>
 
 <br> <br>
 
