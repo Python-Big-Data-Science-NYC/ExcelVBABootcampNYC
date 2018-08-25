@@ -15,3 +15,4 @@ Logistic Regression and Linear Regression: https://docs.google.com/spreadsheets/
 
 Crypto Analytics Project: https://docs.google.com/spreadsheets/d/1Wvr-khKOS5kXb959IJmZc0eSRPuChe-4W5yj5vh0eKg/edit?usp=sharing
 
+Bookchapter on the models: http://qcfinance.in/FORECASTING%20SHAREHOLDER%20RETURNS%20USING%20MONTE%20CARLO%20SIMULATION%20FOR%20CAPITAL%20STRUCTURE%2C%20SHARE%20REPURCHASES%20AND%20CONVERTIBLE%20CALLABLE%20BONDS-%20Metaeconomics%202015.pdf
